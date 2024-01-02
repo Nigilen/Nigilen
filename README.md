@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigilen)](https://github.com/Nigilen/github-readme-stats)
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/70f81163393359.5ab4c75066483.gif" width="100%">
+<img src="https://i.yapx.cc/GzM5K.gif" width="100%">
