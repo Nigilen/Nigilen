@@ -1,5 +1,5 @@
 <h1 align="center">Привет!</h1>
-<div class="eYedVD" vertical-align="middle">
+<div class="eYedVD" valign="middle">
   <h3 align="center">Меня совут Николай</h3>
   <img width="200" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 </div>
