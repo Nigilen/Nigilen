@@ -4,4 +4,7 @@
 
 <p>С 2023 года я начал свой путь в мире фронтенд-разработки. Я уже успешно верстал несколько сайтов и хочу развиваться дальше. Сейчас ищу интересные проекты для применения своих навыков и обучения новому. Если у вас есть крутой и забавный проект, на котором можно было бы поработать, буду рад принять участие!</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigilen)](https://github.com/Nigilen/github-readme-stats)
+<div align="right">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigilen)](https://github.com/Nigilen/github-readme-stats)
+</div>
+
