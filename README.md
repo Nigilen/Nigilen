@@ -7,4 +7,4 @@
 
 
 Большой (large):  
-[![codewars](https://www.codewars.com/users/Nigilen/badges/large)](https://www.codewars.com/users/Nigilen)   
+[![codewars](https://www.codewars.com/users/nigilen/badges/large)](https://www.codewars.com/users/nigilen)   
