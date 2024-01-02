@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigilen)](https://github.com/Nigilen/github-readme-stats)
 
-<img src="https://uploads-ssl.webflow.com/5c965880bf3e25e6d45c170f/5ccf860b9639c41ae078624a_wave-black-on-white-01.gif" width="100%">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/70f81163393359.5ab4c75066483.gif" width="100%">
