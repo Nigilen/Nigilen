@@ -5,4 +5,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nigilen)](https://github.com/Nigilen/github-readme-stats)
 
-<img src="[https://i.yapx.cc/GzM5K.gif](https://i.yapx.cc/GzM5K.gif)https://i.yapx.cc/GzM5K.gif" width="100%">
+<img src="https://usagif.com/wp-content/uploads/gifs/black-cat-73.gif" width="100%">
