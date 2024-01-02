@@ -1,5 +1,9 @@
 <h1 align="center">Привет!</h1>
-<div style="display: flex; align-items: center">
+<div style="
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+  ">
   <h3 align="center">Меня совут Николай</h3>
   <img width="200" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 </div>
