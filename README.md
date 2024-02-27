@@ -5,7 +5,7 @@
 
 
 <h3>Успешно сданные проекты в Яндекс.Практикум:</h3>
-<ul type="arrow" >
+<ul style="list-style-type: 'aa'" >
   <li>
     <p><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a> — практика TS, ООП и основ архитектуры</p>
   </li>
