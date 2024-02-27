@@ -4,30 +4,24 @@
 <p>С 2023 года я начал свой путь в мире фронтенд-разработки. Я уже успешно верстал несколько сайтов и хочу развиваться дальше. Сейчас ищу интересные проекты для применения своих навыков и обучения новому.</p>
 
 
-<h2>Успешно сданные проекты в Яндекс.Практикум:</h2>
+<h3>Успешно сданные проекты в Яндекс.Практикум:</h3>
 <ul>
   <li>
-    <p>Практика TS, ООП и основ архитектуры</p>
-    <a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a>
+    <p>Практика TS, ООП и основ архитектуры — <a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></p>
   </li>
   <li>
-    <p>Практика JS</p>
-    <a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a>
+    <p>Практика JS — <a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a></p> 
   </li>
   <li>
-    <p>Практика HTML/CSS</p>
-    <a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a>
+    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a></p>
   </li>
   <li>
-    <p>Практика HTML/CSS</p>
-    <a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a>
+    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a></p>
   </li>
   <li>
-    <p>Практика HTML/CSS</p>
-    <a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a>
+    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a></p>
   </li>
   <li>
-    <p>Практика HTML/CSS</p>
-    <a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a>
+    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a></p>
   </li>
 </ul>
