@@ -7,21 +7,21 @@
 <h3>Успешно сданные проекты в Яндекс.Практикум:</h3>
 <ul>
   <li>
-    <p>Практика TS, ООП и основ архитектуры — <a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></p>
+    <p><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a> — практика TS, ООП и основ архитектуры</p>
   </li>
   <li>
-    <p>Практика JS — <a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a></p> 
+    <p><a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a> — практика JS</p> 
   </li>
   <li>
-    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a></p>
+    <p><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a> — практика HTML/CSS</p>
   </li>
   <li>
-    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a></p>
+    <p><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a> — практика HTML/CSS</p>
   </li>
   <li>
-    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a></p>
+    <p><a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a> — практика HTML/CSS</p>
   </li>
   <li>
-    <p>Практика HTML/CSS — <a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a></p>
+    <p><a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a> — практика HTML/CSS</p>
   </li>
 </ul>
