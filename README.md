@@ -15,54 +15,32 @@
 
 <table>
   <tr>
-    <th colspan="2">Успешно сданные проекты в Яндекс.Практикум</th>
+    <th colspan="2">Успешно сданные проектные работы в Яндекс.Практикум</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></td>
+    <td><a href="https://github.com/Nigilen/web-larek-frontend.git">«Веб-ларек»</a></td>
     <td>практика TS, ООП и основ архитектуры</td>
   </tr>
   <tr>
-    <td><a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a></td>
+    <td><a href="https://nigilen.github.io/mesto-project-ff/">«Место»</a></td>
     <td>практика JS</td>
   </tr>
   
   <tr>
-    <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a></td>
+    <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">«Закрывающий тег»</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a></td>
+    <td><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">«Сложно сосредоточиться»</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a></td>
+    <td><a href="https://github.com/Nigilen/posmotri_v_okno">«Посмотри в окно»</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a></td>
+    <td><a href="https://github.com/Nigilen/ono-tebe-nado">«Оно тебе надо»</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   
 </table>
-
-<h4>Успешно сданные проекты в Яндекс.Практикум:</h4>
-<ul type="square" >
-  <li>
-    <p><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a> — практика TS, ООП и основ архитектуры</p>
-  </li>
-  <li>
-    <p><a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a> — практика JS</p> 
-  </li>
-  <li>
-    <p><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">Проектная работа «Закрывающий тег»</a> — практика HTML/CSS</p>
-  </li>
-  <li>
-    <p><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">Проектная работа «Сложно сосредоточиться»</a> — практика HTML/CSS</p>
-  </li>
-  <li>
-    <p><a href="https://github.com/Nigilen/posmotri_v_okno">Проектная работа «Посмотри в окно»</a> — практика HTML/CSS</p>
-  </li>
-  <li>
-    <p><a href="https://github.com/Nigilen/ono-tebe-nado">Проектная работа «Оно тебе надо»</a> — практика HTML/CSS</p>
-  </li>
-</ul>
