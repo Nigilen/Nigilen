@@ -15,7 +15,7 @@
 
 <table>
   <tr>
-    <th>Успешно сданные проекты в Яндекс.Практикум:</th>
+    <th colspan="2">Успешно сданные проекты в Яндекс.Практикум</th>
   </tr>
   <tr>
     <td><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></td>
