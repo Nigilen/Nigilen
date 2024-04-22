@@ -47,6 +47,7 @@
     <td>практика HTML/CSS</td>
   </tr>
 </table>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student)](https://git.io/typing-svg)
 [sas]https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 React logo CSS3 logo HTML5 logo JavaScript logo   TypeScript logo Redux logo   Visual Studio Code logo   Figma logo
