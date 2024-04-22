@@ -1,4 +1,4 @@
-<h1 align="center"><code><span style="font-size: small">console.log('</span>Hello, world!<span>')</span></code></h1>
+<h1 align="center"><code><small>console.log('</small>Hello, world!<small>')</small></code></h1>
 <img align="right" width="250" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <h3>Меня зовут Николай ✌🏻</h3>
 <p>Я начинающий frontend-разработчик и открыт для предложений о сотрудничестве.</p>
