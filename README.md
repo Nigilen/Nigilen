@@ -47,3 +47,5 @@
     <td>практика HTML/CSS</td>
   </tr>
 </table>
+https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+React logo CSS3 logo HTML5 logo JavaScript logo   TypeScript logo Redux logo   Visual Studio Code logo   Figma logo
