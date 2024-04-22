@@ -15,8 +15,14 @@
 
 <table>
   <tr>
-    <td>sss</td>
+    <td><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></td>
+    <td>практика TS, ООП и основ архитектуры</td>
   </tr>
+  <tr>
+    <td><a href="https://nigilen.github.io/mesto-project-ff/">Проектная работа «Место»</a></td>
+    <td>практика JS</td>
+  </tr>
+  
 </table>
 
 <h4>Успешно сданные проекты в Яндекс.Практикум:</h4>
