@@ -1,4 +1,4 @@
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=06161DCD&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=console.log('Hello%2C+world!');" alt="Typing SVG" /></a>
 <h1 align="center"><code>console.log('Hello, world!')</code></h1> 
 <img align="right" width="250" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 <pre align="justify">
@@ -47,5 +47,5 @@
     <td>практика HTML/CSS</td>
   </tr>
 </table>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 React logo CSS3 logo HTML5 logo JavaScript logo   TypeScript logo Redux logo   Visual Studio Code logo   Figma logo
