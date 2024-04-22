@@ -15,8 +15,8 @@
 
 <table>
   <theader>
-    <td colspan="1">Успешно сданные проекты в Яндекс.Практикум:</td>
-    <td></td>
+    <td colspan="2">Успешно сданные проекты в Яндекс.Практикум:</td>
+<!--     <td></td> -->
   </theader>
   <tr>
     <td><a href="https://github.com/Nigilen/web-larek-frontend.git">Проектная работа «Веб-ларек»</a></td>
