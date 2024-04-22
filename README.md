@@ -1,6 +1,7 @@
 <a align="right" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=6000&pause=1000&color=06161DCD&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=console.log('Hello%2C+world!');" alt="Typing SVG" /></a>
-<img align="right" width="250" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
+<img align="center" width="100%" src="https://i.pinimg.com/originals/66/83/3e/66833e07d6fb9eb5d724e47d0c814285.gif">
 
+<h1 align="center"><code>console.log('Hello, world!')</code></h1> 
 
 <pre align="justify">
   const nigilen = {
