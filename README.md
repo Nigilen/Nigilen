@@ -18,6 +18,10 @@
     <th colspan="2">Успешно сданные проектные работы в Яндекс.Практикум</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/Nigilen/stellar-burger">«Stellar Burger»</a></td>
+    <td>практика React и тестирования</td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/Nigilen/web-larek-frontend.git">«Веб-ларек»</a></td>
     <td>практика TS, ООП и основ архитектуры</td>
   </tr>
