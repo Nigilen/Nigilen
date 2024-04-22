@@ -30,7 +30,6 @@
       <td><a href="https://nigilen.github.io/mesto-project-ff/">«Место»</a></td>
       <td>практика JS</td>
     </tr>
-    
     <tr>
       <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">«Закрывающий тег»</a></td>
       <td>практика HTML/CSS</td>
