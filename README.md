@@ -21,45 +21,45 @@
 <table>
   <tr>
     <td>«Stellar Burger»</td>
+    <td>практика React и тестов</td>
     <td><a href="https://github.com/Nigilen/stellar-burger">прод</a></td>
     <td><a href="https://github.com/Nigilen/stellar-burger">репозиторий</a></td>
-    <td>практика React и тестов</td>
   </tr>
   <tr>
     <td>«Веб-ларек»</td>
+    <td>практика TS, ООП и основ архитектуры</td>
     <td><a href="https://nigilen.github.io/web-larek-frontend/">прод</a></td>
     <td><a href="https://github.com/Nigilen/web-larek-frontend.git">репозиторий</a></td>
-    <td>практика TS, ООП и основ архитектуры</td>
   </tr>
   <tr>
     <td>«Место»</td>
+    <td>практика JS</td>
     <td><a href="https://nigilen.github.io/mesto-project-ff/">прод</a></td>
     <td><a href="https://github.com/Nigilen/mesto-project-ff">репозиторий</a></td>
-    <td>практика JS</td>
   </tr>
   <tr>
     <td>«Закрывающий тег»</td>
+    <td>практика HTML/CSS</td>
     <td><a href="https://nigilen.github.io/zakrivayuschiy-teg-f/">прод</a></td>
     <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">репозиторий</a></td>
-    <td>практика HTML/CSS</td>
   </tr>
   <tr>
     <td>«Сложно сосредоточиться»</td>
+    <td>практика HTML/CSS</td>
     <td><a href="https://nigilen.github.io/slozhno-sosredotochitsya/">прод</a></td>
     <td><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">репозиторий</a></td>
-    <td>практика HTML/CSS</td>
   </tr>
   <tr>
     <td>«Посмотри в окно»</td>
+    <td>практика HTML/CSS</td>
     <td><a href="https://nigilen.github.io/posmotri_v_okno/">прод</a></td>
     <td><a href="https://github.com/Nigilen/posmotri_v_okno">репозиторий</a></td>
-    <td>практика HTML/CSS</td>
   </tr>
   <tr>
     <td>«Оно тебе надо»</td>
+    <td>практика HTML/CSS</td>
     <td><a href="https://nigilen.github.io/ono-tebe-nado/">прод</a></td>
     <td><a href="https://github.com/Nigilen/ono-tebe-nado">репозиторий</a></td>
-    <td>практика HTML/CSS</td>
   </tr>
 </table>
 
