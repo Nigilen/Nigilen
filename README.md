@@ -20,31 +20,45 @@
 <h2>Успешно сданные проекты за время учебы в Яндекс.Практикум</h2>
 <table>
   <tr>
-    <td><a href="https://github.com/Nigilen/stellar-burger">«Stellar Burger»</a></td>
-    <td>практика React и тестирования</td>
+    <td>«Stellar Burger»</td>
+    <td><a href="https://github.com/Nigilen/stellar-burger">прод</a></td>
+    <td><a href="https://github.com/Nigilen/stellar-burger">репозиторий</a></td>
+    <td>практика React и тестов</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/web-larek-frontend.git">«Веб-ларек»</a></td>
+    <td>«Веб-ларек»</td>
+    <td><a href="https://nigilen.github.io/web-larek-frontend/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/web-larek-frontend.git">репозиторий</a></td>
     <td>практика TS, ООП и основ архитектуры</td>
   </tr>
   <tr>
-    <td><a href="https://nigilen.github.io/mesto-project-ff/">«Место»</a></td>
+    <td>«Место»</td>
+    <td><a href="https://nigilen.github.io/mesto-project-ff/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/mesto-project-ff">репозиторий</a></td>
     <td>практика JS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">«Закрывающий тег»</a></td>
+    <td>«Закрывающий тег»</td>
+    <td><a href="https://nigilen.github.io/zakrivayuschiy-teg-f/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/zakrivayuschiy-teg-f">репозиторий</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">«Сложно сосредоточиться»</a></td>
+    <td>«Сложно сосредоточиться»</td>
+    <td><a href="https://nigilen.github.io/slozhno-sosredotochitsya/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/slozhno-sosredotochitsya">репозиторий</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/posmotri_v_okno">«Посмотри в окно»</a></td>
+    <td>«Посмотри в окно»</td>
+    <td><a href="https://nigilen.github.io/posmotri_v_okno/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/posmotri_v_okno">репозиторий</a></td>
     <td>практика HTML/CSS</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Nigilen/ono-tebe-nado">«Оно тебе надо»</a></td>
+    <td>«Оно тебе надо»</td>
+    <td><a href="https://nigilen.github.io/ono-tebe-nado/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/ono-tebe-nado">репозиторий</a></td>
     <td>практика HTML/CSS</td>
   </tr>
 </table>
