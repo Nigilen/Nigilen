@@ -22,7 +22,7 @@
   <tr>
     <td>«Stellar Burger»</td>
     <td>практика React и тестов</td>
-    <td><a href="nigilen.github.io/stellar-burger/">прод</a></td>
+    <td><a href="https://nigilen.github.io/stellar-burger/">прод</a></td>
     <td><a href="https://github.com/Nigilen/stellar-burger">репозиторий</a></td>
   </tr>
   <tr>
