@@ -115,3 +115,6 @@
 &nbsp;
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/7080709b312a829823fa4d98fa3c1cf67a7e70400e50ee9ba5edcfeba3dc6e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343"><img src="https://camo.githubusercontent.com/7080709b312a829823fa4d98fa3c1cf67a7e70400e50ee9ba5edcfeba3dc6e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343" alt="Figma logo" title="Figma" height="25" data-canonical-src="https://img.shields.io/badge/Figma-282C34?logo=figma&amp;logoColor=007ACC" style="max-width: 100%;"></a>
 </div>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" alt="Figma logo" title="Figma" height="25" style="max-width: 100%;"></a>
+</div>
+
