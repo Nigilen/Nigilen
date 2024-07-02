@@ -19,7 +19,7 @@
 
 
 <h2>Успешно сданные проекты за время учебы в Яндекс.Практикум</h2>
-<table>
+<table align="center>
   <tr>
     <td>«Stellar Burger»</td>
     <td>практика React и тестов</td>
