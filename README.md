@@ -1,4 +1,8 @@
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
+<blockquote>
+  <p>Bad programmers worry about the code. Good programmers worry about data structures and their relationships.</p>
+</blockquote>
+
 <p>Я начинающий frontend-разработчик и бывший SEO-специалист.</p>
 <ul>
   <li>
