@@ -16,6 +16,45 @@
   </li>
 </ul>
 
+<h2>Проекты над которыми работаю сейчас</h2>
+<table>
+  <tr>
+    <td>Monomo</td>
+    <td>пет-портфолио</td>
+    <td><a href="https://nigilen.github.io/monomo/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/monomo">репозиторий</a></td>
+  </tr>
+  <tr>
+    <td>Polygon</td>
+    <td>пет для отработки навыков с акцентом на React</td>
+    <td><a href="https://nigilen.github.io/polygin/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/polygin">репозиторий</a></td>
+  </tr>
+  <tr>
+    <td>Ovsinka</td>
+    <td>пет-блог 2022 года (в планах полный рефакторинг)</td>
+    <td><a href="https://nigilen.github.io/monomo/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/monomo">репозиторий</a></td>
+  </tr>
+</ul>
+
+<h2>Выполненные тестовые</h2>
+<table>
+  <tr>
+    <td>Тестовое задание от Qupe</td>
+    <td>Верстка с макета</td>
+    <td>PUG, SCSS, JS</td>
+    <td><a href="https://nigilen.github.io/qupe/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/qupe">репозиторий</a></td>
+  </tr>
+  <tr>
+    <td>Тестовое задание от Makeunion</td>
+    <td>Создание трех страниц со своим функционалом</td>
+    <td>PUG, SCSS, JS</td>
+    <td><a href="https://nigilen.github.io/makeunion-tt/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/makeunion-tt">репозиторий</a></td>
+  </tr>
+</ul>
 
 <h2 alig="center">Успешно сданные проекты за время учебы в Яндекс.Практикум</h2>
 <table>
