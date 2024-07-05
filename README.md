@@ -122,16 +122,12 @@
 </div>
 
 
-![figma](https://github.com/Nigilen/Nigilen/assets/38656496/989aee1a-697c-47bd-ab40-92af29136afd)
-![webpck](https://github.com/Nigilen/Nigilen/assets/38656496/b57b3772-ca07-4b94-9a08-f132dcc4db6d)
-![tests](https://github.com/Nigilen/Nigilen/assets/38656496/08f31d5f-a091-4d8d-91b2-16d8eac1c118)
-![css](https://github.com/Nigilen/Nigilen/assets/38656496/2d99044c-1110-458b-9cb3-a62aab82b8c2)
-![html](https://github.com/Nigilen/Nigilen/assets/38656496/9b304cec-5fbf-4c65-acfc-af9da43487c4)
-![js](https://github.com/Nigilen/Nigilen/assets/38656496/855de31d-890a-4fb7-b596-f20db5684f18)
-
-
-
-
+![fig](https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63)
+![webp](https://github.com/Nigilen/Nigilen/assets/38656496/1a488af9-5c31-4896-b58d-f4b8388ba891)
+![tests](https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048)
+![css](https://github.com/Nigilen/Nigilen/assets/38656496/a6360469-bfbb-4928-a454-ad2e1ba17947)
+![html](https://github.com/Nigilen/Nigilen/assets/38656496/8900a9ee-a8df-4fce-bcde-e5e657af6c6e)
+![js](https://github.com/Nigilen/Nigilen/assets/38656496/84da1d0a-09a8-431e-a757-57bbc7263a47)
 
 
 
