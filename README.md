@@ -121,3 +121,18 @@
 <img src="https://camo.githubusercontent.com/7080709b312a829823fa4d98fa3c1cf67a7e70400e50ee9ba5edcfeba3dc6e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343" alt="Figma logo" title="Figma" height="25" style="max-width: 100%;"></a>
 </div>
 
+
+![figma](https://github.com/Nigilen/Nigilen/assets/38656496/989aee1a-697c-47bd-ab40-92af29136afd)
+![webpck](https://github.com/Nigilen/Nigilen/assets/38656496/b57b3772-ca07-4b94-9a08-f132dcc4db6d)
+![tests](https://github.com/Nigilen/Nigilen/assets/38656496/08f31d5f-a091-4d8d-91b2-16d8eac1c118)
+![css](https://github.com/Nigilen/Nigilen/assets/38656496/2d99044c-1110-458b-9cb3-a62aab82b8c2)
+![html](https://github.com/Nigilen/Nigilen/assets/38656496/9b304cec-5fbf-4c65-acfc-af9da43487c4)
+![js](https://github.com/Nigilen/Nigilen/assets/38656496/855de31d-890a-4fb7-b596-f20db5684f18)
+
+
+
+
+
+
+
+
