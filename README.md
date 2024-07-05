@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/0182b45d-c6df-4781-8b5a-2dce2875c509"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/24c99beb-b12a-4f13-833f-0b42425f27b3"/>
 </div>
 
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
