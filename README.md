@@ -1,3 +1,8 @@
+<div align="center">
+    <img src="https://github.com/Nigilen/Nigilen/assets/38656496/78843988-13a5-4932-8c69-906675d134b1"/>
+</div>
+
+<br/>
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
 
 <br/>
