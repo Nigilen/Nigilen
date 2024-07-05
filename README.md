@@ -26,6 +26,9 @@
 
 <p align="center"><strong>Открыт для предложений 🙃</strong></p>
 
+<img align="center" width="50%" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934">
+
+
 
 <br/>
 <h2>Проекты над которыми работаю сейчас</h2>
