@@ -29,7 +29,7 @@
 
 <br/>
 <h2>Проекты над которыми работаю сейчас</h2>
-<table>
+<table align="center">
   <tr>
     <td>Monomo</td>
     <td>пет-портфолио</td>
@@ -51,7 +51,7 @@
 </table>
 
 <h2>Выполненные тестовые</h2>
-<table>
+<table align="center">
   <tr>
     <td>Тестовое задание от Qupe</td>
     <td>Верстка с макета</td>
@@ -68,7 +68,7 @@
 
 
 <h2 alig="center">Успешно сданные проекты за время учебы в Яндекс.Практикум</h2>
-<table>
+<table align="center">
   <tr>
     <td>«Stellar Burger»</td>
     <td>практика React и тестов</td>
