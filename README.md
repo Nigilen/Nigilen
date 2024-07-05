@@ -8,17 +8,17 @@
 <p>Я начинающий frontend-разработчик и бывший SEO-специалист.</p>
 <br/>
 <div vertical-align="middle">
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/b3d6d02c-242b-4297-9105-51c9456fb160" />
+    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/e6a7fbfc-f86f-4444-b0fa-52f7eb326bf1" />
     <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/ea73fdf0-dcb4-46f1-89b7-a23f9669b987" />
+    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/7ff1ddae-813c-4d6d-8269-b611c1115dd3" />
     <p>Я ценю здоровое общение и приятную компанию, где чувствуешь себя своим. </p>
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/081b6e5f-352e-4e2c-9888-dd212a8b31d0" />
+    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/255aae17-810b-40ca-ad2a-d62a7a2e3717" />
     <p>В свободное время я люблю играть в настольные игры или WoW, а также ходить на квизы.</p>
 </div>
 
@@ -123,6 +123,8 @@
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/1a488af9-5c31-4896-b58d-f4b8388ba891"/>
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63"/>
 </div>
+
+
 
 
 
