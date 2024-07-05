@@ -1,4 +1,6 @@
-![DEVELOPMENT   SEO](https://github.com/Nigilen/Nigilen/assets/38656496/ae67d563-054d-4125-a761-236ee9930c20)
+<div align="center">
+![DEVELOPMENT   SEO](https://github.com/Nigilen/Nigilen/assets/38656496/0182b45d-c6df-4781-8b5a-2dce2875c509)
+</div>
 
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
 
