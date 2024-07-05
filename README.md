@@ -7,7 +7,7 @@
 
 <p>Я начинающий frontend-разработчик и бывший SEO-специалист.</p>
 <ul>
-  <li vertical-align="middle">
+  <li vertical-align="middle" list-slyle="none">
     <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/ea73fdf0-dcb4-46f1-89b7-a23f9669b987"  />
     <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
   </li>
