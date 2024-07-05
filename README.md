@@ -121,13 +121,15 @@
 <img src="https://camo.githubusercontent.com/7080709b312a829823fa4d98fa3c1cf67a7e70400e50ee9ba5edcfeba3dc6e4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4669676d612d3238324333343f6c6f676f3d6669676d61266c6f676f436f6c6f723d303037414343" alt="Figma logo" title="Figma" height="25" style="max-width: 100%;"></a>
 </div>
 
-
-![fig](https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63)
-![webp](https://github.com/Nigilen/Nigilen/assets/38656496/1a488af9-5c31-4896-b58d-f4b8388ba891)
-![tests](https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048)
-![css](https://github.com/Nigilen/Nigilen/assets/38656496/a6360469-bfbb-4928-a454-ad2e1ba17947)
-![html](https://github.com/Nigilen/Nigilen/assets/38656496/8900a9ee-a8df-4fce-bcde-e5e657af6c6e)
-![js](https://github.com/Nigilen/Nigilen/assets/38656496/84da1d0a-09a8-431e-a757-57bbc7263a47)
+<div align="center" vertical-align="middle">
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/8900a9ee-a8df-4fce-bcde-e5e657af6c6e"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/a6360469-bfbb-4928-a454-ad2e1ba17947"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/84da1d0a-09a8-431e-a757-57bbc7263a47"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/1a488af9-5c31-4896-b58d-f4b8388ba891"/>
+  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63"/>
+</div>
 
 
 
