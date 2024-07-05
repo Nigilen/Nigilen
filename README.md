@@ -1,5 +1,5 @@
 <div align="center">
-![DEVELOPMENT   SEO](https://github.com/Nigilen/Nigilen/assets/38656496/0182b45d-c6df-4781-8b5a-2dce2875c509)
+![D](https://github.com/Nigilen/Nigilen/assets/38656496/0182b45d-c6df-4781-8b5a-2dce2875c509)
 </div>
 
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
