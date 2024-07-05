@@ -1,4 +1,4 @@
-<div align="center">
+![gaming](https://github.com/Nigilen/Nigilen/assets/38656496/0af985f6-b0f3-47c8-8d92-0c9cfdb7d67a)![gaming](https://github.com/Nigilen/Nigilen/assets/38656496/652fac14-a355-4cc0-a9c6-4215e8cc3a49)<div align="center">
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/3118b143-aca0-4566-8772-675c1b2e2b7f" />
 </div>
 
@@ -20,6 +20,12 @@
     <p>Я открыт для предложений и активно ищу интересное место для самореализации 🙃</p>
   </li>
 </ul>
+
+![conv](https://github.com/Nigilen/Nigilen/assets/38656496/ea73fdf0-dcb4-46f1-89b7-a23f9669b987)
+![brain](https://github.com/Nigilen/Nigilen/assets/38656496/b3d6d02c-242b-4297-9105-51c9456fb160)
+![gaming](https://github.com/Nigilen/Nigilen/assets/38656496/081b6e5f-352e-4e2c-9888-dd212a8b31d0)
+
+
 
 <h2>Проекты над которыми работаю сейчас</h2>
 <table>
