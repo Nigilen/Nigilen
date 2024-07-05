@@ -27,7 +27,7 @@
 <p align="center"><strong>Открыт для предложений 🙃</strong></p>
 
 <div align="center">
-    <img  width="100" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
+    <img  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
 </div>
 
 
