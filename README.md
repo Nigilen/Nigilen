@@ -5,8 +5,7 @@
 <br/>
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
 
-<br/>
-<p>Я начинающий frontend-разработчик и бывший SEO-специалист.</p>
+<p align="center">Я начинающий frontend-разработчик и бывший SEO-специалист.</p>
 <br/>
 <div vertical-align="middle">
     <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/e6a7fbfc-f86f-4444-b0fa-52f7eb326bf1" />
