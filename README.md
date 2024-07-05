@@ -126,7 +126,6 @@
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/a6360469-bfbb-4928-a454-ad2e1ba17947"/>
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/84da1d0a-09a8-431e-a757-57bbc7263a47"/>
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048"/>
-  <img src="https://github.com/Nigilen/Nigilen/assets/38656496/8b4a67a7-3e76-4178-82da-6efc75c6d048"/>
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/1a488af9-5c31-4896-b58d-f4b8388ba891"/>
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63"/>
 </div>
