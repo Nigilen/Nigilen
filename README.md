@@ -44,8 +44,8 @@
   <tr>
     <td>Polygon</td>
     <td>пет для отработки навыков с акцентом на React</td>
-    <td><a href="https://nigilen.github.io/polygin/">прод</a></td>
-    <td><a href="https://github.com/Nigilen/polygin">репозиторий</a></td>
+    <td><a href="https://nigilen.github.io/polygon/">прод</a></td>
+    <td><a href="https://github.com/Nigilen/polygon">репозиторий</a></td>
   </tr>
   <tr>
     <td>Ovsinka</td>
