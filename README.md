@@ -1,5 +1,6 @@
 
 
+
 <div align="center">
     <img src="https://github.com/user-attachments/assets/bbe7f5dd-649f-4306-a4c9-59c4460fdd46" />
 </div>
@@ -12,7 +13,7 @@
 <p align="center">Я frontend-разработчик и SEO-специалист.</p>
 <br/>
 
-<div vertical-align="middle" style="width: 100px">
+<div vertical-align="middle">
     <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
     <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
 </div>
@@ -31,6 +32,7 @@
 
 <div align="center">
     <img align="center" src="https://github.com/user-attachments/assets/020d5b80-0bce-4d66-891e-4061e1c4f9c1" />
+    <img align="center" src="https://github.com/user-attachments/assets/0afe2e98-d2ce-4b96-bd27-dd838fb8057c" />
 </div>
 
 <div align="center">
