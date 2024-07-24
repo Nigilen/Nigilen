@@ -31,13 +31,13 @@
 <br/>
 
 
-    <div align="center">
-        <img src="https://github.com/user-attachments/assets/020d5b80-0bce-4d66-891e-4061e1c4f9c1" />
-    </div>
-    
-    <div align="center">
-        <img  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
-    </div>
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/020d5b80-0bce-4d66-891e-4061e1c4f9c1" />
+</div>
+
+<div align="center">
+    <img  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
+</div>
 
 
 
