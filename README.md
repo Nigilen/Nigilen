@@ -32,8 +32,8 @@
 <br/>
 
 
-<div width="100%"  align="center">
-    <img src="https://github.com/user-attachments/assets/dcf77c0c-c001-4704-94fd-20cdfdeefa7c" />
+<div  align="center">
+    <img width="100%" height='50px' src="https://github.com/user-attachments/assets/dcf77c0c-c001-4704-94fd-20cdfdeefa7c" />
 </div>
 
 <div align="center">
