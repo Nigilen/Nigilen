@@ -1,24 +1,20 @@
-<div align="center">
-    <img src="https://github.com/Nigilen/Nigilen/assets/38656496/78843988-13a5-4932-8c69-906675d134b1"/>
-</div>
-
 <br/>
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
 
 <p align="center">Я frontend-разработчик и бывший SEO-специалист.</p>
 <br/>
 <div vertical-align="middle">
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/e6a7fbfc-f86f-4444-b0fa-52f7eb326bf1" />
+    <img align="left" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
     <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/7ff1ddae-813c-4d6d-8269-b611c1115dd3" />
+    <img align="left" src="https://github.com/user-attachments/assets/261fe87f-9cf2-4ac0-8940-87f2c7823eba" />
     <p>Высоко ценю искреннее общение и приятную атмосферу, в которой каждый ощущает свою значимость.</p>
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/Nigilen/Nigilen/assets/38656496/255aae17-810b-40ca-ad2a-d62a7a2e3717" />
+    <img align="left" src="https://github.com/user-attachments/assets/53b7ce5f-29f1-4a7f-ab09-e079b72feb51" />
     <p>В свободное время люблю играть в PS, WoW и участвовать в квизах.</p>
 </div>
 
