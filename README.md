@@ -10,6 +10,23 @@
 <p align="center">Я frontend-разработчик и SEO-специалист.</p>
 <br/>
 
+<table>
+    <tr>
+        <td>
+            <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
+            <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
+        </td>
+        <td>
+            <img align="left" width="25" src="https://github.com/user-attachments/assets/261fe87f-9cf2-4ac0-8940-87f2c7823eba" />
+            <p>Высоко ценю искреннее общение и приятную атмосферу, в которой каждый ощущает свою значимость.</p>
+        </td>
+        <td>
+            <img align="left" width="25" src="https://github.com/user-attachments/assets/53b7ce5f-29f1-4a7f-ab09-e079b72feb51" />
+            <p>В свободное время люблю играть в PS, WoW и участвовать в квизах.</p>
+        </td>
+    </tr>
+</table>
+
 <div vertical-align="middle" style="width: 100px">
     <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
     <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
