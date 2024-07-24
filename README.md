@@ -11,7 +11,7 @@
 <br/>
 
 <table>
-    <tr>
+    <tr vertical-align="top">
         <td width="33%">
             <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
             <p>Мне нравится создавать что-то новое, решать сложные задачи, автоматизировать и оптимизировать рабочие процессы.</p>
