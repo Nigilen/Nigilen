@@ -10,7 +10,7 @@
 <p align="center">Я frontend-разработчик и SEO-специалист.</p>
 <br/>
 
-<table>
+<table border-collapse="collapse">
     <tr vertical-align="top">
         <td width="33%">
             <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
