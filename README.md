@@ -1,3 +1,13 @@
+![загруженное](https://github.com/user-attachments/assets/2449bad2-ab0c-4bf9-a09b-926d62ab89a5)
+
+<img src="https://github.com/user-attachments/assets/806ac4ea-5e6b-41fc-a98a-9ea9ce1544bb" />
+
+
+
+
+
+
+
 <div align="center">
 <img src="https://github.com/user-attachments/assets/bbe7f5dd-649f-4306-a4c9-59c4460fdd46" />
 </div>
