@@ -1,6 +1,6 @@
-![загруженное](https://github.com/user-attachments/assets/2449bad2-ab0c-4bf9-a09b-926d62ab89a5)
 
-<img src="https://github.com/user-attachments/assets/806ac4ea-5e6b-41fc-a98a-9ea9ce1544bb" />
+
+<img src="https://github.com/user-attachments/assets/020d5b80-0bce-4d66-891e-4061e1c4f9c1" />
 
 
 
