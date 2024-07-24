@@ -32,14 +32,14 @@
 <br/>
 
 <div vertical-align="middle">
-    <div  align="left">
+    <div align="left">
         <img src="https://github.com/user-attachments/assets/dcf77c0c-c001-4704-94fd-20cdfdeefa7c" />
     </div>
     
+</div>
     <div align="right">
         <img  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
     </div>
-</div>
 
 
 
