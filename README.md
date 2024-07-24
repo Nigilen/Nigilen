@@ -9,12 +9,12 @@
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/user-attachments/assets/261fe87f-9cf2-4ac0-8940-87f2c7823eba" />
+    <img align="left" width="20" src="https://github.com/user-attachments/assets/261fe87f-9cf2-4ac0-8940-87f2c7823eba" />
     <p>Высоко ценю искреннее общение и приятную атмосферу, в которой каждый ощущает свою значимость.</p>
 </div>
 <br/>
 <div>
-    <img align="left" src="https://github.com/user-attachments/assets/53b7ce5f-29f1-4a7f-ab09-e079b72feb51" />
+    <img align="left" width="20" src="https://github.com/user-attachments/assets/53b7ce5f-29f1-4a7f-ab09-e079b72feb51" />
     <p>В свободное время люблю играть в PS, WoW и участвовать в квизах.</p>
 </div>
 
