@@ -32,14 +32,12 @@
 <br/>
 
 <div vertical-align="middle">
-    <div align="left">
-        <img src="https://github.com/user-attachments/assets/dcf77c0c-c001-4704-94fd-20cdfdeefa7c" />
-    </div>
-    
+
+        <img align="left" src="https://github.com/user-attachments/assets/dcf77c0c-c001-4704-94fd-20cdfdeefa7c" />
+
+        <img align="right"  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
+
 </div>
-    <div align="right">
-        <img  width="300" src="https://github.com/Nigilen/Nigilen/assets/38656496/7d68510b-a527-4ba6-9e58-edb4fe57c934"/>
-    </div>
 
 
 
