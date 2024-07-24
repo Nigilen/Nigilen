@@ -30,8 +30,8 @@
 <br/>
 
 
-<div>
-    <img height="20px" src="https://github.com/user-attachments/assets/0e06d45c-00ef-4a50-9a00-4eab49e22c0e" />
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/0e06d45c-00ef-4a50-9a00-4eab49e22c0e" />
 </div>
 
 <div align="center">
