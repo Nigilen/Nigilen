@@ -1,4 +1,5 @@
-<h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
+<img align="center" src="https://github.com/user-attachments/assets/bbe7f5dd-649f-4306-a4c9-59c4460fdd46" />
+
 
 <br/>
 <p align="center">Я frontend-разработчик и SEO-специалист.</p>
