@@ -1,6 +1,7 @@
 <h1 align="center">Всем привет, меня зовут Николай! ✌🏻</h1>
 
-<p align="center">Я frontend-разработчик и бывший SEO-специалист.</p>
+<br/>
+<p align="center">Я frontend-разработчик и SEO-специалист.</p>
 <br/>
 <div vertical-align="middle">
     <img align="left" width="25" src="https://github.com/user-attachments/assets/d1a851b5-dd78-46c6-85c7-92d52636ef77" />
