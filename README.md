@@ -26,7 +26,7 @@
 <br/>
 <div>
     <img align="left" width="25" src="https://github.com/user-attachments/assets/53b7ce5f-29f1-4a7f-ab09-e079b72feb51" />
-    <p>В свободное время люблю играть в PS, WoW и участвовать в квизах.</p>
+    <p>В свободное время люблю гамать в PS, квизы вместе с боевой подругой или делать шоколад.</p>
 </div>
 
 <br/>
