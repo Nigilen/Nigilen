@@ -1,5 +1,5 @@
-<p>← кто я</p>
-<p>инфа по проектам ↓</p>
+<p>← about me</p>
+<p>my projects ↓</p>
 
 <!-- 
 <div align="center">
