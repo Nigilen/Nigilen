@@ -1,7 +1,7 @@
 
 
 
-
+<!-- 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/bbe7f5dd-649f-4306-a4c9-59c4460fdd46" />
 </div>
@@ -136,7 +136,7 @@
   <img src="https://github.com/Nigilen/Nigilen/assets/38656496/2b8dccfc-b18b-4620-91d4-0da01fe11d63"/>
 </div>
 
-
+ -->
 
 
 
